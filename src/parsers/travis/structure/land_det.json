@@ -1,0 +1,21 @@
+[
+  {"header": "prop_id", "length": 12},
+  {"header": "prop_val_yr", "length": 4},
+  {"header": "land_seg_id", "length": 12},
+  {"header": "land_type_cd", "length": 10},
+  {"header": "land_type_desc", "length": 25},
+  {"header": "state_cd", "length": 5},
+  {"header": "land_seg_homesite", "length": 1},
+  {"header": "size_acres", "length": 14},
+  {"header": "size_square_feet", "length": 14},
+  {"header": "effective_front", "length": 14},
+  {"header": "effective_depth", "length": 14},
+  {"header": "mkt_ls_method", "length": 5},
+  {"header": "mkt_ls_class", "length": 10},
+  {"header": "land_seg_mkt_val", "length": 14},
+  {"header": "ag_apply", "length": 1},
+  {"header": "ag_ls_method", "length": 5},
+  {"header": "ag_ls_class", "length": 10},
+  {"header": "ag_value", "length": 14},
+  {"header": "land_homesite_pct", "length": 15}
+]

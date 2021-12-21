@@ -1,0 +1,13 @@
+[
+  {"header": "prop_id", "length": 12},
+  {"header": "prop_val_yr", "length": 4},
+  {"header": "imprv_id", "length": 12},
+  {"header": "imprv_type_cd", "length": 10},
+  {"header": "imprv_type_desc", "length": 25},
+  {"header": "imprv_state_cd", "length": 5},
+  {"header": "imprv_homesite", "length": 1},
+  {"header": "imprv_val", "length": 14},
+  {"header": "imprv_homesite_pct", "length": 15},
+  {"header": "omitted", "length": 1},
+  {"header": "omitted_imprv_val", "length": 15}
+]

@@ -1,0 +1,7 @@
+[
+  {"header": "state_cd", "length": 10},
+  {"header": "state_cd_description", "length": 50},
+  {"header": "ptd_state_cd", "length": 10},
+  {"header": "ptd_state_cd_description", "length": 50},
+  {"header": "state_cd_year", "length": 5}
+]

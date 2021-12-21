@@ -1,0 +1,4 @@
+[
+  {"header": "entity_id", "length": 12},
+  {"header": "entity_cd", "length": 5}
+]

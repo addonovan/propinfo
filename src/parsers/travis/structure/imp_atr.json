@@ -1,0 +1,9 @@
+[
+  {"header": "prop_id", "length": 12},
+  {"header": "prop_val_yr", "length": 4},
+  {"header": "imprv_id", "length": 12},
+  {"header": "imprv_det_id", "length": 12},
+  {"header": "imprv_attr_id", "length": 12},
+  {"header": "imprv_attr_desc", "length": 25},
+  {"header": "imprv_attr_cd", "length": 10}
+]

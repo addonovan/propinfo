@@ -1,0 +1,14 @@
+[
+  {"header": "Run Date / Time", "length": 16},
+  {"header": "File Description", "length": 40},
+  {"header": "Appraisal Year", "length": 4},
+  {"header": "Supplement Number", "length": 4},
+  {"header": "Entity Code", "length": 10},
+  {"header": "Entity Description", "length": 40},
+  {"header": "Office Name", "length": 30},
+  {"header": "Operator", "length": 20},
+  {"header": "PACS Version", "length": 10},
+  {"header": "Export Version", "length": 10},
+  {"header": "Value Option", "length": 10},
+  {"header": "Office Use Only", "length": 50}
+]

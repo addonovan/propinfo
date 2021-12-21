@@ -1,0 +1,14 @@
+[
+  {"header": "prop_id", "length": 12},
+  {"header": "prop_val_yr", "length": 4},
+  {"header": "imprv_id", "length": 12},
+  {"header": "mbl_hm_make", "length": 100},
+  {"header": "mbl_hm_model", "length": 100},
+  {"header": "mbl_hm_title_num", "length": 100},
+  {"header": "mbl_hm_sn", "length": 100},
+  {"header": "mbl_hm_hud_num", "length": 100},
+  {"header": "mbl_hm_sn_2", "length": 100},
+  {"header": "mbl_hm_hud_num_2", "length": 100},
+  {"header": "mbl_hm_sn_3", "length": 100},
+  {"header": "mbl_hm_hud_num_3", "length": 100}
+]

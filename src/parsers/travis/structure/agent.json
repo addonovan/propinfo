@@ -1,0 +1,21 @@
+[
+  {"header": "agent_id", "length": 12},
+  {"header": "agent_name", "length": 70},
+  {"header": "agent_addr_line1", "length": 60},
+  {"header": "agent_addr_line2", "length": 60},
+  {"header": "agent_addr_line3", "length": 60},
+  {"header": "agent_city", "length": 50},
+  {"header": "agent_state", "length": 50},
+  {"header": "agent_country", "length": 5},
+  {"header": "agent_zip", "length": 5},
+  {"header": "agent_zip_cass", "length": 4},
+  {"header": "agent_zip_rt", "length": 2},
+  {"header": "agent_id", "length": 12},
+  {"header": "agent_name", "length": 70},
+  {"header": "agent_addr_line1", "length": 60},
+  {"header": "agent_addr_line2", "length": 60},
+  {"header": "agent_addr_line3", "length": 60},
+  {"header": "agent_city", "length": 50},
+  {"header": "agent_state", "length": 50},
+  {"header": "agent_country", "length": 5}
+]

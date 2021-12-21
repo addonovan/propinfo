@@ -1,0 +1,8 @@
+[
+  {"header": "prop_id", "length": 12},
+  {"header": "prop_val_yr", "length": 5},
+  {"header": "geo_id", "length": 50},
+  {"header": "ref_id1", "length": 25},
+  {"header": "ref_id2", "length": 25},
+  {"header": "prop_id", "length": 12}
+]
